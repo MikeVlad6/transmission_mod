@@ -17,7 +17,7 @@ Again, when pulling in logic from external sources practice caution and trust th
 
 We host and publish official Mods at the [linuxserver/mods](https://github.com/orgs/linuxserver/packages/container/mods/versions) endpoint as separate tags. Each tag is in the format of `<imagename>-<modname>` for the latest versions, and `<imagename>-<modname>-<commitsha>` for the specific versions.
 
-Here's a list of the official Mods we host: <https://mods.linuxserver.io/>
+Here's a list of the official Mods we host: <https://mods.linuxserver.io/>x
 
 ## Using a Docker Mod
 
